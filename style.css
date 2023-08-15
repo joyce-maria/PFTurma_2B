@@ -1,6 +1,9 @@
 @import url("style/header.css");
 @import url("style/banner.css");
 @import url("style/carrossel.css");
+@import url("style/tópicos.css");
+@import url("style/contato.css");
+@import url("style/rodape.css");
 :root{
     --cor-de-fundo: white;
     --branco: white;
